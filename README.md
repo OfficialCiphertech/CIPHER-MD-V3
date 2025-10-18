@@ -3,7 +3,7 @@ CIPHER-MD V3
 <img align="center" height="auto"
 src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
 
-https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60)
 
 
 
