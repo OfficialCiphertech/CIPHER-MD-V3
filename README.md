@@ -3,7 +3,7 @@
 <img align="center" height="auto"
 src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60)
 <br>
 
    </p>
