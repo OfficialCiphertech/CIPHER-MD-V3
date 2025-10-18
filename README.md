@@ -1,10 +1,11 @@
-# CIPHER-MD V3
+CIPHER-MD V3
 
 <img align="center" height="auto"
 src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60)
-<br>
+https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60
+
+
 
    </p>
 <p align="center">
@@ -31,57 +32,65 @@ src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `CIPHER-MD-V3 INSTALLATION`
+🚨 FORK REQUIRED 🚨
 
-🔑 Get Session ID (WhatsApp Pair Code Login)
+<div align="center">
 
-> Generate your session ID from the link below:
+⭐ YOU MUST FORK THIS REPOSITORY BEFORE USING THE BOT ⭐
+
+<a href="https://github.com/OfficialCiphertech/CIPHER-MD-V3/fork">
+  <img src="https://img.shields.io/badge/FORK-THIS_REPO-red?style=for-the-badge&logo=github" alt="Fork Repository" width="300">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+Forking this repository is mandatory to ensure you have your own copy and can customize it according to your needs.
+
+</div>
+
+<br>
+
+HOW TO DEPLOY ON PANELS
+
+1. Fork this repository first - Click the "Fork" button at the top right of this page
+2. Download your forked bot file - Download the bot file from YOUR forked repository
+
+Click below to download the bot file from YOUR fork:
+
 <p align="left">
-  <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20FIRST%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a href="https://github.com/YOUR_USERNAME/CIPHER-MD-V3/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20YOUR%20FORKED%20BOT%20FILES-green" alt="Download Your Forked Bot Files" width="280"></a>
 
-<p align="left">
-  <a href="https://kango-pair-ste-oqi8.onrender.com/pair?">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20SECOND%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-## `HOW TO DEPLOY ON PANELS`
-
-1. **Download bot file here** - First download the bot file from the download link given below
-   
-> Click below to download the bot file :
-<p align="left">
-<a href="https://github.com/OfficialCiphertech/CIPHER-MD-V3/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20BOT%20FILES-green" alt="Download Bot Files" width="180"></a>
-
-2. Then head to your panel
-3. Upload the script zip file to your panel
-4. Unarchieve the uploaded zip file
-5. Enter your phone number in the User.js file
-6. Now go to console and start bot
-7. Wait for 5-10 mins to get your pairing code 
-8. Enter pair code in link devices in whatsapp
-9. Deployment successful
+1. Then head to your panel
+2. Upload the script zip file to your panel
+3. Unarchive the uploaded zip file
+4. Enter your phone number in the User.js file
+5. Now go to console and start bot
+6. Wait for 5-10 mins to get your pairing code
+7. Enter pair code in link devices in whatsapp
+8. Deployment successful
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <details>
 <summary>𝘔𝘈𝘕𝘜𝘈𝘓 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘔𝘌𝘕𝘛𝘚</summary>
-  
-## `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-  
-## `CLONE REPO & INSTALLATION DEPENDENCIES`
+
+REQUIREMENTS
+
+· Node.js
+· Git
+· FFmpeg
+· Libwebp
+· Any text editor
+
+CLONE REPO & INSTALLATION DEPENDENCIES
+
 ```bash
-git clone https://github.com/OfficialCiphertech/CIPHER-MD-V3.git
+# Make sure to use YOUR forked repository URL, not the original!
+git clone https://github.com/YOUR_USERNAME/CIPHER-MD-V3.git
 cd CIPHER-MD-V3 
 npm start
 ```
@@ -98,7 +107,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/OfficialCiphertech/CIPHER-MD-V3.git
+# Use YOUR forked repository URL
+git clone https://github.com/YOUR_USERNAME/CIPHER-MD-V3.git
 cd CIPHER-MD-V3
 npm install
 npm start
@@ -107,7 +117,7 @@ npm start
 FOR TERMUX
 
 ```bash
-pkg update && pkg upgrade -y && apt-get install -y bash libwebp git nodejs ffmpeg wget imagemagick && git clone https://github.com/OfficialCiphertech/CIPHER-MD-V3 && cd CIPHER-MD-V3 && npm install && npm start
+pkg update && pkg upgrade -y && apt-get install -y bash libwebp git nodejs ffmpeg wget imagemagick && git clone https://github.com/YOUR_USERNAME/CIPHER-MD-V3 && cd CIPHER-MD-V3 && npm install && npm start
 ```
 
 FOR 24/7 ACTIVATION PM2 (TERMUX)
@@ -124,13 +134,19 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 </details>
 
+📋 IMPORTANT NOTE
+
+<div align="center">
+
+⚠️ You MUST fork this repository before proceeding with any installation or deployment. Using the original repository directly may cause issues with updates and customization.
+
+</div>
+
 Credits
 
 · HACKERPRO
-· Baileys
-· Matrix
-
-
+·Baileys
+·Matrix
 
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
@@ -138,8 +154,6 @@ Credits
 · This bot is made for educational purposes only hence DO NOT MISUSE.
 
 © CIPHER-MD V3 Bot
-
-
 
 https://img.shields.io/badge/License-green.svg
 
