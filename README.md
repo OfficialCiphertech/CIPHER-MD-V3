@@ -1,11 +1,10 @@
-CIPHER-MD V3
+# CIPHER-MD V3
 
 <img align="center" height="auto"
 src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
 
-https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=C+I+P+H+E+R+M+D+V3++BY+H+A+C+K+E+R+P+R+O.
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60)](https://git.io/typing-svg)
+<br>
 
    </p>
 <p align="center">
@@ -32,12 +31,11 @@ https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=10
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🛠️ CIPHER-MD-V3 INSTALLATION
+## 🛠️ `CIPHER-MD-V3 INSTALLATION`
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
-Generate your session ID from the link below:
-
+> Generate your session ID from the link below:
 <p align="left">
   <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20FIRST%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
@@ -52,39 +50,36 @@ Generate your session ID from the link below:
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-HOW TO DEPLOY ON PANELS
+## `HOW TO DEPLOY ON PANELS`
 
-1. Download bot file here - First download the bot file from the download link given below
-
-Click below to download the bot file :
-
+1. **Download bot file here** - First download the bot file from the download link given below
+   
+> Click below to download the bot file :
 <p align="left">
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V3/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20BOT%20FILES-green" alt="Download Bot Files" width="180"></a>
 
-1. Then head to your panel
-2. Upload the script zip file to your panel
-3. Unarchieve the uploaded zip file
-4. Enter your phone number in the User.js file
-5. Now go to console and start bot
-6. Wait for 5-10 mins to get your pairing code RAGEMODS
-7. Enter pair code RAGEMODS in link devices in whatsapp
-8. Deployment successful
+2. Then head to your panel
+3. Upload the script zip file to your panel
+4. Unarchieve the uploaded zip file
+5. Enter your phone number in the User.js file
+6. Now go to console and start bot
+7. Wait for 5-10 mins to get your pairing code 
+8. Enter pair code in link devices in whatsapp
+9. Deployment successful
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <details>
 <summary>𝘔𝘈𝘕𝘜𝘈𝘓 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘔𝘌𝘕𝘛𝘚</summary>
-
-REQUIREMENTS
-
-· Node.js
-· Git
-· FFmpeg
-· Libwebp
-· Any text editor
-
-CLONE REPO & INSTALLATION DEPENDENCIES
-
+  
+## `REQUIREMENTS`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+  
+## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
 git clone https://github.com/OfficialCiphertech/CIPHER-MD-V3.git
 cd CIPHER-MD-V3 
