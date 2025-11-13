@@ -1,15 +1,17 @@
-CIPHER-MD V3
+
+#CIPHER-MD V3
 
 <img align="center" height="auto" src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/2mespr_1763021215555.jpg">
 
-https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60
+<!-- Fixed SVG Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60" alt="Typing SVG">
 
 </p>
 <p align="center">
 <a href="https://github.com/OfficialCiphertech"><img title="Author" src="https://img.shields.io/badge/HACKERPRO-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@officnuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233557488116"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
- <p align="center">
+<p align="center">
 <a href="https://github.com/OfficialCiphertech/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialCiphertech?color=purple&style=flat-square"></a>
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialCiphertech/CIPHER-MD-V3?color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialCiphertech/CIPHER-MD-V3?color=blue&style=flat-square"></a>
@@ -64,7 +66,9 @@ Forking this repository is mandatory to ensure you have your own copy and can cu
 Download Link:
 
 ```
+
 https://www.mediafire.com/file/umbnuq33zvh5d9f/CIPHER-MD_V3.zip/file
+
 ```
 
 🚀 HOW TO DEPLOY ON PANELS
@@ -152,8 +156,8 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 👨‍💻 Credits
 
 · HACKERPRO
-· Baileys
-· Matrix
+·Baileys
+·Matrix
 
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
@@ -173,3 +177,4 @@ Quick Download Link:
 ```
 https://www.mediafire.com/file/umbnuq33zvh5d9f/CIPHER-MD_V3.zip/file
 ```
+
