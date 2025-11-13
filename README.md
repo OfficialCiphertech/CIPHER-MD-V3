@@ -1,13 +1,10 @@
 CIPHER-MD V3
 
-<img align="center" height="auto"
-src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
+<img align="center" height="auto" src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60)
+https://readme-typing-svg.herokuapp.com/?lines=CIPHER+MD+V3+BY+HACKER+PRO;&font=Fira+Code&size=30&duration=5000&color=0000FF&center=true&vCenter=true&width=815&height=60
 
-
-
-   </p>
+</p>
 <p align="center">
 <a href="https://github.com/OfficialCiphertech"><img title="Author" src="https://img.shields.io/badge/HACKERPRO-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@officnuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233557488116"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
@@ -54,24 +51,34 @@ Forking this repository is mandatory to ensure you have your own copy and can cu
 
 <br>
 
-HOW TO DEPLOY ON PANELS
+📥 DOWNLOAD BOT FILES
+
+<div align="center">
+
+<a href="https://www.mediafire.com/file/umbnuq33zvh5d9f/CIPHER-MD_V3.zip/file"><img src="https://img.shields.io/badge/DOWNLOAD%20BOT%20FILES-green?style=for-the-badge" alt="Download Bot Files" width="280"></a>
+
+</div>
+
+<br>
+
+Download Link:
+
+```
+https://www.mediafire.com/file/umbnuq33zvh5d9f/CIPHER-MD_V3.zip/file
+```
+
+🚀 HOW TO DEPLOY ON PANELS
 
 1. Fork this repository first - Click the "Fork" button at the top right of this page
-2. Download your forked bot file - Download the bot file from YOUR forked repository
-
-Click below to download the bot file from YOUR fork:
-
-<p align="left">
-<a href="ttps://www.mediafire.com/file/425rsttxxbsm5to/CIPHER-MD_V3.zip/file"><img src="https://img.shields.io/badge/DOWNLOAD%20YOUR%20FORKED%20BOT%20FILES-green" alt="Download Your Forked Bot Files" width="280"></a>
-
-1. Then head to your panel
-2. Upload the script zip file to your panel
-3. Unarchive the uploaded zip file
-4. Enter your phone number in the User.js file
-5. Now go to console and start bot
-6. Wait for 5-10 mins to get your pairing code
-7. Enter pair code in link devices in whatsapp
-8. Deployment successful
+2. Download your forked bot file - Download the bot file from YOUR forked repository using the download link above
+3. Then head to your panel
+4. Upload the script zip file to your panel
+5. Unarchive the uploaded zip file
+6. Enter your phone number in the User.js file
+7. Now go to console and start bot
+8. Wait for 5-10 mins to get your pairing code
+9. Enter pair code in link devices in whatsapp
+10. Deployment successful
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -142,11 +149,11 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 </div>
 
-Credits
+👨‍💻 Credits
 
 · HACKERPRO
-·Baileys
-·Matrix
+· Baileys
+· Matrix
 
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
@@ -158,3 +165,11 @@ Credits
 https://img.shields.io/badge/License-green.svg
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+---
+
+Quick Download Link:
+
+```
+https://www.mediafire.com/file/umbnuq33zvh5d9f/CIPHER-MD_V3.zip/file
+```
