@@ -62,7 +62,7 @@ HOW TO DEPLOY ON PANELS
 Click below to download the bot file from YOUR fork:
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME/CIPHER-MD-V3/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20YOUR%20FORKED%20BOT%20FILES-green" alt="Download Your Forked Bot Files" width="280"></a>
+<a href="(ttps://www.mediafire.com/file/425rsttxxbsm5to/CIPHER-MD_V3.zip/file)"><img src="https://img.shields.io/badge/DOWNLOAD%20YOUR%20FORKED%20BOT%20FILES-green" alt="Download Your Forked Bot Files" width="280"></a>
 
 1. Then head to your panel
 2. Upload the script zip file to your panel
